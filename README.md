@@ -1,11 +1,11 @@
-# Hampiness â€” Information System Design
+# Hampiness — Information System Design
 
 Hampiness is an academic team project that translated the needs of a marketplace into a structured information-system proposal before implementation.
 
 ## Project type and role
 
 - **Type:** Academic team project
-- **Role:** Team member â€” system analysis and design
+- **Role:** Team member — system analysis and design
 - **Focus:** Requirements, process modeling, object modeling, and architecture
 
 ## Analysis and design work
@@ -47,4 +47,3 @@ This project strengthened my ability to move from an ambiguous business problem 
 ## Privacy note
 
 The original submission document is not included because it contains student identifiers and collaborator information. This repository is a sanitized portfolio summary of the project.
-
